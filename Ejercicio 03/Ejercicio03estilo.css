@@ -1,0 +1,15 @@
+ul {
+    margin-left: -3%;
+}
+
+ul li {
+    margin-bottom: 0.5cm;
+}
+
+ul.ingredientes li {
+    margin-bottom: auto;
+}
+
+ul.preparacion li {
+    margin-bottom: auto;
+}
